@@ -1,0 +1,243 @@
+ 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=Roboto:wght@500;700;900&display=swap');
+
+
+
+ /* header */
+
+.header-container {
+    display: flex;
+    margin: 69px 0 85.28px 162px;
+    width: 912.72px;
+    justify-content: space-between;
+    align-items: center;
+}  
+.logo {
+    width: 198.79px;
+    height: 53.72px;
+
+}
+.nav-ul { 
+    display: flex;
+    width: 564px;
+    justify-content: space-between;
+}
+.fa-solid {
+    width: 6px;
+    height: 3px;
+    color: #274C5B;
+    margin-left: 5px;
+}
+.a-item {
+    color: #274C5B;
+    font-size: 20px;
+    line-height: 23.44px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+
+   /* section */
+.banner {
+    width: 100%;
+    height: 450px;
+    margin-bottom: 182px;
+}
+.main-div {
+    margin: 0 auto 97px auto;
+    width: 1400px;
+}
+.photo {
+    width: 100%;
+    height: 742px;
+    margin-bottom: 78px;
+}
+.div-container {
+    margin: 0 auto;
+    width: 936px;
+}
+
+ /* main information */
+
+.main-title {
+    color: #274C5B;
+    font-size: 50px;
+    line-height: 58.59px;
+    font-weight: 800;
+    margin-bottom: 28px;
+    font-family: 'Roboto', sans-serif;
+}
+.text {
+    color: #525C60;
+    font-size: 18px;
+    line-height: 29.77px;
+    margin-bottom: 70px;
+    .your-style {
+        font-family: 'Open Sans';
+        font-weight: normal;
+        font-style: normal;
+    }
+}
+.first-part {
+    margin-bottom: 30px;
+}
+
+   /* child div*/
+
+.child-div {
+    width: 936px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 28px;
+}
+.child-photo {
+    width: 379px;
+    height: 252px;
+    border-radius: 15px;
+}
+.grandson-div {
+    background-color: #F9F8F8;
+    width: 537px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child-text {
+    width: 447px;
+}
+.child-title {
+    color: #274C5B;
+    font-size: 25px;
+    line-height: 29.3px;
+    font-weight: 500px;
+    margin-bottom: 7px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.child-description {
+    color: #525C60;
+    font-size: 18px;
+    line-height: 29.77px;
+    font-weight: 400;
+}
+.div-margin {
+    margin-bottom: 70px;
+}
+
+   /* farmland information */
+
+.farmland-title {
+    color: #274C5B;
+    font-weight: 800;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    line-height: 41.02px;
+    margin-bottom: 11px;
+    text-shadow: 0 4px 4px #00000040;
+}
+.farmland-text {
+    color: #525C60;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.77px;
+}
+.orange-photo {
+    width: 1400px;
+    margin: 0 auto 60px auto
+}
+
+  /* footer */
+.footer-container {
+    width: 1404px;
+    margin: 0 auto 61px auto;
+    display: flex;
+    justify-content: space-between;
+}
+   /* contact information */
+.contact {
+    width: 291px;
+    height: 308px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+.contact-size {
+    width: 285px;
+    height: 240px;
+}
+.contact-info {
+    /* width: 285px;
+    height: 240px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.footer-title {
+    color: #274C5B;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    line-height: 35.16px;
+}
+.contact-p {
+    color: #525C60;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 29.7px;
+}
+.contact-a {
+    color: #525C60;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.7px;
+}
+.organik {
+    text-align: center;
+    width: 543px;
+    height: 136.72px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.footer-logo {
+    width: 198.79px;
+    height: 53.72px;
+}
+.organik-text {
+    color: #525C60;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.77px;
+}
+.utility {
+    width: 285px;
+    height: 304px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.utility-a {
+    color: #525C60;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 49.12px;
+}
+.line {
+    width: 100%;
+    border: 1px solid #D4D4D4;
+    margin-bottom: 17px;
+}
+.copyright-text {
+    color: #525C60;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.77px;
+}
+.copyright-span {
+    font-weight: 700;
+}
+.copyright {
+    width: 699px;
+    margin: 0 auto;
+}
